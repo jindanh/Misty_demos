@@ -1,0 +1,7 @@
+gTTS==2.5.4
+ollama==0.4.7
+Requests==2.32.3
+SpeechRecognition==3.14.1
+thread==2.0.5
+websocket_client==0.57.0
+yapf==0.43.0
